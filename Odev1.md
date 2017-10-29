@@ -14,8 +14,8 @@ Sınıf  |      Öğrenci İsmi      | Numara
 
 ## Kaynakçalar  
 
-1.Aladaş,E."Heron Çeşmesi(Hidroliksiz Su Taşıması).Muhendis Online
+1.Aladaş,E."Heron Çeşmesi(Hidroliksiz Su Taşıması)".Muhendis Online.
   http://muhendisonline.net/heron-cesmesi-hidroliksiz-su-tasinmasi.html
   Son erişim tarihi:29.10.2017
-2.  
+
 
